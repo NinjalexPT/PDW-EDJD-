@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/PWD-EDJD-/static/css/main.801bbef6.css",
+    "main.js": "/PWD-EDJD-/static/js/main.e6621677.js",
+    "static/js/453.d9a3c95e.chunk.js": "/PWD-EDJD-/static/js/453.d9a3c95e.chunk.js",
+    "static/media/waitingroom.png": "/PWD-EDJD-/static/media/waitingroom.e067ed3ed272864654d6.png",
+    "static/media/ceo2office.png": "/PWD-EDJD-/static/media/ceo2office.8dfd704f81c0a3f502d4.png",
+    "static/media/finallab2.png": "/PWD-EDJD-/static/media/finallab2.6b944befb91bee99f730.png",
+    "static/media/lockerroom.jpg": "/PWD-EDJD-/static/media/lockerroom.d30dd2fcacf9991dec2b.jpg",
+    "static/media/corridor.png": "/PWD-EDJD-/static/media/corridor.4fff0558bb32e37bbd2e.png",
+    "static/media/finallab.png": "/PWD-EDJD-/static/media/finallab.126e8f5f984a341a16fa.png",
+    "static/media/warehouse.png": "/PWD-EDJD-/static/media/warehouse.6d3206a4cbb5ab583487.png",
+    "static/media/ceo1office.png": "/PWD-EDJD-/static/media/ceo1office.88610da5b4bb6bd44221.png",
+    "static/media/receptionistdesk.jpg": "/PWD-EDJD-/static/media/receptionistdesk.8517150ff529397df228.jpg",
+    "static/media/lab.png": "/PWD-EDJD-/static/media/lab.3f6b83db1e5b34ed6327.png",
+    "static/media/financeoffice.png": "/PWD-EDJD-/static/media/financeoffice.0526f7e0b1f8090df824.png",
+    "static/media/accountingoffice.jpg": "/PWD-EDJD-/static/media/accountingoffice.42f83db4362c71de05b1.jpg",
+    "static/media/laboffice.png": "/PWD-EDJD-/static/media/laboffice.220ceffb4f998ca11bc7.png",
+    "static/media/lock.png": "/PWD-EDJD-/static/media/lock.184680b6bf0d2a7af0b4.png",
+    "static/media/defaultwoman.png": "/PWD-EDJD-/static/media/defaultwoman.881bd7e715435bcada8d.png",
+    "static/media/financechief.png": "/PWD-EDJD-/static/media/financechief.f8cfa949fc0d1d519949.png",
+    "static/media/accountant.png": "/PWD-EDJD-/static/media/accountant.c9f1be91b98e600136ed.png",
+    "static/media/testportrait.jpg": "/PWD-EDJD-/static/media/testportrait.666dbe46585552aa2469.jpg",
+    "static/media/defaultman.png": "/PWD-EDJD-/static/media/defaultman.2024d0723e8058ea982b.png",
+    "static/media/ceo1.png": "/PWD-EDJD-/static/media/ceo1.f9faa25a42c989fbb3da.png",
+    "static/media/ceo2.png": "/PWD-EDJD-/static/media/ceo2.fbfb97873bfdaaf7f3cb.png",
+    "static/media/protagonist.png": "/PWD-EDJD-/static/media/protagonist.6d20264dc946cf15947c.png",
+    "static/media/pick.png": "/PWD-EDJD-/static/media/pick.b69a2b621d384f6836cf.png",
+    "index.html": "/PWD-EDJD-/index.html",
+    "main.801bbef6.css.map": "/PWD-EDJD-/static/css/main.801bbef6.css.map",
+    "main.e6621677.js.map": "/PWD-EDJD-/static/js/main.e6621677.js.map",
+    "453.d9a3c95e.chunk.js.map": "/PWD-EDJD-/static/js/453.d9a3c95e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801bbef6.css",
+    "static/js/main.e6621677.js"
+  ]
+}
