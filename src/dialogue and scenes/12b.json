@@ -1,0 +1,34 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "I didn’t do anything you didn’t deserve, people are dying out there because of your 'fantastic' medicine with next to no risks, yet the numbers don’t really match up but no one talks about it!",
+			"name": "Player",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "ceo2.png",
+			"dialogueline": "Woah woah! Calm down Saviour, you have the wrong idea about who’s at play with what here, I’m not against you, James is, and youre lucky I found you before him, otherwise you would probably end up on those numbers you talk to much about. I can’t do anything to him but maybe you can.",
+			"name": "William Harris",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Go on...",
+			"name": "Player",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "ceo2.png",
+			"dialogueline": "You might know that James and I are long-time friends, but this charade has gone too far, even for my ideals, look, I don’t know exactly what is your reason or objective, but you probably know a bit about our misdeeds, thankfully it just happens that I found you before he did, otherwise we wouldn’t be having this conversation, you should look at the bottom, all of this has gone too far and I cant just keep doing it, he deserves what’s coming if you suceed… all I ask is that you make sure I have no connection to your conclusions.",
+			"name": "William Harris",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "I'll... make sure that's the case.",
+			"name": "Player",
+			"background": "ceo2office.png"
+		}
+	]
+}

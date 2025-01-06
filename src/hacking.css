@@ -1,0 +1,52 @@
+.hackingboard{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+	min-width: 600px;
+	width: 50vw;
+
+	min-height: 400px;
+	height: 75vh;
+	border-style: solid;
+
+	position: absolute;
+	left: 25vw;
+	top: 12.5vh;
+
+	background-color: White;
+}
+
+.leftbuttons{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
+	width: auto;
+	height: auto;
+
+	margin: 5% 0px 5% 5%;
+
+	float: left;
+}
+
+.button{
+	width: 75px;
+	height: 75px;
+	
+	border-radius: 100%;
+	border: none;
+}
+
+.rightbuttons{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+	width: auto;
+	height: auto;
+
+	margin: 5% 5% 5% 0px;
+
+	float: right;
+}

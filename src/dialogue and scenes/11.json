@@ -1,0 +1,22 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "William sits on his chair looking att the screen of his laptop, thinking it seems.",
+			"name": "Narrator",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "ceo2.png",
+			"dialogueline": "Come Mr.Thomas, have a set please.",
+			"name": "William Harris",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "ceo2.png",
+			"dialogueline": "It seems you have been snooping around this establish, putting your nose where it does not belong.",
+			"name": "William Harris",
+			"background": "ceo2office.png"
+		}
+	]
+}

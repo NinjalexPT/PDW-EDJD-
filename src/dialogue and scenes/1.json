@@ -1,0 +1,16 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "defaultwoman.png",
+			"dialogueline": "Good evening.",
+			"name": "Receptionist",
+			"background": "receptionistdesk.jpg"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Good evening to you too.",
+			"name": "Player",
+			"background": "receptionistdesk.jpg"
+		}
+	]
+}

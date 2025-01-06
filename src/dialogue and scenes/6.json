@@ -1,0 +1,22 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "I should problably change into something else if I want to get to the other floors.",
+			"name": "Player",
+			"background": "laboffice.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "You find a janitor jumpsuit in it with a note, it reads: 'You’re going to need this'.",
+			"name": "Narrator",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Either someone is looking after me, or someone already knows im here.",
+			"name": "Player",
+			"background": "lockerroom.jpg"
+		}
+	]
+}

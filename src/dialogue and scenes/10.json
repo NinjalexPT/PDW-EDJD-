@@ -1,0 +1,16 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "It's not as extravagant as I expected it to be.",
+			"name": "Player",
+			"background": "ceo1office.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Maybe this has something to do with the basement?",
+			"name": "Player",
+			"background": "ceo1office.png"
+		}
+	]
+}

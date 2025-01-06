@@ -1,0 +1,16 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": “I-I-I'm sorry it's not what it looks like, I was just cleaning!”,
+			"name": "Player",
+			"background": "financeoffice.png"
+		},
+		{
+			"portrait": "financechief.png",
+			"dialogueline": "Yeah right, leave the excuses to someone else, I'm calling security.",
+			"name": "Accountant Chief",
+			"background": "financeoffice.png"
+		}
+	]
+}

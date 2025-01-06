@@ -1,0 +1,10 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "I should’ve asked him for the keys to his locker too. It is what It is I guess, thank god I watched all those lockpicking lawyer videos.",
+			"name": "Player",
+			"background": "lockerroom.jpg"
+		}
+	]
+}

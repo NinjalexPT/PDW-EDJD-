@@ -1,0 +1,10 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "You calm yourself in this stressfull moment, just walking through, the workers don’t seem to mind your presence and keep working, in a few moments you reach the door and you exit, from there it’s a peace of cake getting back to the Locker room and changing to your clothes and walking out, with more than enough proof to show the world the truth about the company, Jamie certainly won’t be getting away, the same can be said for the Head of the science department, William’s fate on the other hand, its up to you, same for the head Accountant, they did a crime, but are they justified?",
+			"name": "Narrator",
+			"background": "finallab2.png"
+		}
+	]
+}

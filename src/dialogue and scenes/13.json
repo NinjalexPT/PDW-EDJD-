@@ -1,0 +1,10 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "A shiver goes down your spine when a multitude of very quiet breathing sounds come from the pods that litter the edges, in the end a door with simply “Lab” written on it stands, it’s the final piece you feel, two corridors stretch on the other directions facing the door with more pods.",
+			"name": "Narrator",
+			"background": "warehouse.png"
+		}
+	]
+}

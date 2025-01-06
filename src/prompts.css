@@ -1,0 +1,173 @@
+.dialoguebox{
+	display: flex;
+	flex-direction: row;
+	
+	width: 75vw;
+	height: 25vh;
+	border-style: solid;
+
+	min-height: 150px;
+
+	position: absolute;
+	left: 12.5vw;
+	top: 65vh;
+
+	background-color: White;
+}
+
+.portrait{
+	/*border-style: solid;*/
+	border-right-style: solid;
+}
+
+.portrait-image{
+	width: 180px;
+	height: 100%;
+}
+
+.textside{
+	width: 100%;
+	height: 100%;
+}
+
+.title{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+	border-bottom-style: solid;
+	width: 100%;
+	height: 18%;
+	/*justify-content: center;*/
+}
+
+.titletext{
+	margin-top: 1vh;
+	margin-left: 1vw;
+	margin-right: 1vw;
+	margin-bottom: 1vh;
+}
+
+.dialoguequit{
+	width: 50px;
+/*	height: 41px;*/
+	height: 100%;
+	font-size: max(15px, 3vmin);
+	border-radius: 0px;
+	border: none;
+}
+
+.dialogue{
+	width: 100%;
+	height: 80%;
+
+	overflow: scroll;
+}
+
+.dialoguetext{
+	margin-top: 1vh;
+	margin-left: 1vw;
+	margin-right: 1vw;
+	margin-bottom: 1vh;
+}
+
+.interactprompt{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+	min-width: 260px;
+	width: 20vw;
+
+	min-height: 25px;
+	height: 5vh;
+	border-style: solid;
+
+	overflow: scroll;
+
+	position: absolute;
+	left: 35vw;
+	top: 35vh;
+
+	margin-bottom: 10px;
+
+	background-color: White;	
+}
+
+.interacttext{
+	margin-top: 1vh;
+	margin-left: 1vw;
+	margin-right: 1vw;
+	margin-bottom: 1vh;
+}
+
+.diaryprompt{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+
+	min-width: 260px;
+	width: 50vw;
+
+	min-height: 25px;
+	height: 75vh;
+	border-style: solid;
+
+	overflow: scroll;
+
+	position: absolute;
+	left: 25vw;
+	top: 12.5vh;
+
+	margin-bottom: 10px;
+
+	background-color: White;
+}
+
+.entry{
+	margin-top: 0vh;
+	margin-left: 1vw;
+	margin-right: 1vw;
+	margin-bottom: 4vh;
+}
+
+.inventoryprompt{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+
+	min-width: 260px;
+	width: 50vw;
+
+	min-height: 25px;
+	height: 75vh;
+	border-style: solid;
+
+	overflow: scroll;
+
+	position: absolute;
+	left: 25vw;
+	top: 12.5vh;
+
+	margin-bottom: 10px;
+
+	background-color: White;
+}
+
+.inventoryitems{
+	list-style-type: none;
+}
+
+.item{
+	margin-top: 4.5vh;
+	margin-left: 4.5vw;
+	margin-right: 4.5vw;
+	margin-bottom: 4.5vh;
+
+	float: left;
+}
+
+.itemimg{
+	width: 100px;
+	height: 100px;
+}

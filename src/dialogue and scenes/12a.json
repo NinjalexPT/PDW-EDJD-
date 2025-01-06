@@ -1,0 +1,28 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "ceo2.png",
+			"dialogueline": "Cat got your tongue? You might think that shutting up is the best choice but it just happens that you and me are on the same side, you might know that James and I are long time friends, but this charade has gone too far, even for my ideals.",
+			"name": "William Harris",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "What?...",
+			"name": "Player",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "ceo2.png",
+			"dialogueline": "Look, I don't know exactly what is your reason or objective, but you probably know a bit about our misdeeds, thankfully it just happens that I found you before he did, otherwise we wouldn't be having this discussion, you should look at the bottom, all of this has gone too far and I can't just keep doing it, he deserves what's coming if you succeed... all I ask is that you make sure I have no connection to your conclusions.",
+			"name": "William Harris",
+			"background": "ceo2office.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "I'll... make sure that's the case.",
+			"name": "Player",
+			"background": "ceo2office.png"
+		}
+	]
+}

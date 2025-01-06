@@ -1,0 +1,28 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Uhm… Today is my first day and I wondered if you wouldn’t bother telling me where the employees locker room is?",
+			"name": "Player",
+			"background": "receptionistdesk.jpg"
+		},
+		{
+			"portrait": "defaultwoman.png",
+			"dialogueline": "Of course! Just keep going forward and it’s the first door on the left with a label saying it.",
+			"name": "Receptionist",
+			"background": "receptionistdesk.jpg"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Thank you.",
+			"name": "Player",
+			"background": "receptionistdesk.jpg"
+		},
+		{
+			"portrait": "defaultwoman.png",
+			"dialogueline": "You're welcome.",
+			"name": "Receptionist",
+			"background": "receptionistdesk.jpg"
+		}
+	]
+}

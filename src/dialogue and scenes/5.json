@@ -1,0 +1,58 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "What do you mean there are 'missing funds'?",
+			"name": "Scientist",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "Exactly what it sounds like, I’ve checked some records and theres always a small disparity with the value, they’re just gone.",
+			"name": "Accountant",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "Nobody else noticed?",
+			"name": "Scientist",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "Seems like so, or at least nobody cared to because its not that big considering the full picture, but what annoys me is that there is no record, they are just gone, vanishing.",
+			"name": "Accountant",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "Only someone with complete access to the companies Financial records could make that, I am no mathematician myself, but I don’t think numbers just disappear like that.",
+			"name": "Scientist",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "Indeed, well I have to go now, bye.",
+			"name": "Accountant",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "Goodbye.",
+			"name": "Scientist",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Seems like I'll have to pay a visit to the head accountant office too.",
+			"name": "Player",
+			"background": "lab.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "This man sure has a lot of prizes, now to see if they're actually his.",
+			"name": "Player",
+			"background": "laboffice.png"
+		}
+	]
+}

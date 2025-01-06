@@ -1,0 +1,46 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "As you crouch down behind the table, voices of James and an unidentified scientist can be heard, so you decide to start recording audio just in case.",
+			"name": "Narrator",
+			"background": "finallab.png"
+		},
+		{
+			"portrait": "ceo1.png",
+			"dialogueline": "What do you mean they are becoming 'too violent'?",
+			"name": "James Carter",
+			"background": "finallab.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "We need better test subjects, we can’t just keep using homeless, their bodies can’t take the procedure, they’re already weak by nature, we need healthy people!",
+			"name": "Scientist",
+			"background": "finallab.png"
+		},
+		{
+			"portrait": "ceo1.png",
+			"dialogueline": "So you suggest we kidnap people with lives who will be missed instead of random homeless people who lie on the side of the street with powdered noses?",
+			"name": "James Carter",
+			"background": "finallab.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "I… Look, boss, they work as a concept to show how strong our super-soldiers can be, but due to their habits they can easily become erratic which is bad when we want soldiers that follow complex orders, we need a proper subject, otherwise we wont sell any procedures for soldiers at all because we have no soldiers to show the project.",
+			"name": "Scientist",
+			"background": "finallab.png"
+		},
+		{
+			"portrait": "ceo1.png",
+			"dialogueline": "Just get me some results, I don’t care how, or you are going to become the subject you so desperately need.",
+			"name": "James Carter",
+			"background": "finallab.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "The conversation ceases as the scientist starts walking away quite distressed by the CEO threat, maybe he would really become it if he doesn’t succeed, peaking you see James sit on a chair looking at a big tube with what resembles Hulk or… a 40k Astartes? Trully a frightening though if these are the things they are trying to make considering your very small knowledge of both of the characters but he is very disfigured, one of the veins on the arm seems to have blown up? You spot a cabinet with 'vials' labelled on it.",
+			"name": "Narrator",
+			"background": "finallab.png"
+		}
+	]
+}

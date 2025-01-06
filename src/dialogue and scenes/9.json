@@ -1,0 +1,58 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "ceo1.png",
+			"dialogueline": "I'm going for a walk, tell anyone who comes to see me, I'm busy and to come and see me another time.",
+			"name": "James Carter",
+			"background": "waitingroom.png"
+		},
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "As you wish sir, I'll cancel all your appointments for the next two hours.",
+			"name": "Sophia Bennett",
+			"background": "waitingroom.png"
+		},
+		{
+			"portrait": "ceo1.png",
+			"dialogueline": "Thank you and goodbye!",
+			"name": "James Carter",
+			"background": "waitingroom.png"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "Before she even has time to say goodbye herself the infuriated CEO as already left the floor and the receptionist becomes seemingly slightly sad and she then turns to you normal again.",
+			"name": "Narrator",
+			"background": "waitingroom.png"
+		},
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "Hi. Are you here to see Mr. William Harris?",
+			"name": "Sophia Bennett",
+			"background": "waitingroom.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Yes.",
+			"name": "Player",
+			"background": "accountingoffice.jpg"
+		},
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "Thomas I presume?",
+			"name": "Sophia Bennett",
+			"background": "waitingroom.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "N-... Yes.",
+			"name": "Player",
+			"background": "accountingoffice.jpg"
+		},
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "He's waiting for you in his office.",
+			"name": "Sophia Bennett",
+			"background": "waitingroom.png"
+		}
+	]
+}

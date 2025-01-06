@@ -1,0 +1,28 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "accountant.png",
+			"dialogueline": "Why are you fooling around here? Get to cleaning.",
+			"name": "Accountant",
+			"background": "accountingoffice.jpg"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "As you wish.",
+			"name": "Player",
+			"background": "accountingoffice.jpg"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Maybe I should try this in the basement.",
+			"name": "Player",
+			"background": "financeoffice.png"
+		},
+		{
+			"portrait": "financechief.png",
+			"dialogueline": "Why are you rummaging through my stuff?!",
+			"name": "Accountant Chief",
+			"background": "financeoffice.png"
+		}
+	]
+}

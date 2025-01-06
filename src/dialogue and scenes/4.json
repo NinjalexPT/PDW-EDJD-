@@ -1,0 +1,52 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "You hear some voices from the bathroom so you stop to listen for a bit.",
+			"name": "Narrator",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "This company really has some bright minds doesn’t it? Our department chief has some really impressive feats.",
+			"name": "Scientist 1",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "I heard some rumors from some of my friends in the university that he actually never did anything, his students do everything and he just steals their work and calls it his own… but they never say anything.",
+			"name": "Scientist 2",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "That's quite the serious accusation but if its so many one would’ve complained by now don’t you think?",
+			"name": "Scientist 1",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "All I know is that I don’t quite like how he always acts like he’s superior.",
+			"name": "Scientist 2",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "Yeah, sometimes I kinda do wish it was true, maybe I could even try to go for his spot…",
+			"name": "Scientist 1",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "defaultman.png",
+			"dialogueline": "The chit-chat coming from the bathroom continued, but nothing of importance is being said, you move on and find the locked locker.",
+			"name": "Narrator",
+			"background": "lockerroom.jpg"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Seems like the lab head is quite the topic around here.",
+			"name": "Player",
+			"background": "lockerroom.jpg"
+		}
+	]
+}

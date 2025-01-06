@@ -1,0 +1,34 @@
+{
+	"Dialogue": [
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Calm down please! I’m here to deal with this company, im trying to gather information.",
+			"name": "Player",
+			"background": "financeoffice.png"
+		},
+		{
+			"portrait": "financechief.png",
+			"dialogueline": "Sure Mr.Sherlock, I’m not exactly a kid to fall for something like that.",
+			"name": "Accountant Chief",
+			"background": "financeoffice.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "I mean it! I know whats happening to you, if you can tell me more about the blackmailer I promise to not tell about the money.",
+			"name": "Player",
+			"background": "financeoffice.png"
+		},
+		{
+			"portrait": "financechief.png",
+			"dialogueline": "I-… well, you make a great point… Look, I don’t want to get my daughter in trouble because some shining knight wants to bring the big bad Corporation down, I don’t want to be involved in your little investigation, so ill just say its one of the higher-ups, now leave before I change my mind.",
+			"name": "Accountant Chief",
+			"background": "financeoffice.png"
+		},
+		{
+			"portrait": "protagonist.png",
+			"dialogueline": "Thank you!",
+			"name": "Player",
+			"background": "financeoffice.png"
+		}
+	]
+}
